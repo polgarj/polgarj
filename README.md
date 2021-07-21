@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Joco
+- 👀 I’m interested in the best practices of frontend development
+- 🌱 I’m currently learning react and gatsby
+- :keyboard: I'm currently working on my blog with focus on web accessibility
