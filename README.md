@@ -1,4 +1,4 @@
 - 👋 Hi, My nam is Joco. I'm an **accessibility enthusiast** and a **sitebuilder**.
 - 👀 I’m interested in the best practices of frontend development.
 - 🌱 I’m currently learning react and gatsby.
-- :keyboard: I'm currently working on my blog with focus on web accessibility.
+- :keyboard: I run run a blog about web accessibility, called Use Less Divs. https://uselessdivs.com/
