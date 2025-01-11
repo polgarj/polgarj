@@ -1,3 +1,2 @@
-- 👋 Hi, My name is Joco. I'm an **accessibility enthusiast** and a **sitebuilder**.
-- 👀 I’m interested in the best practices of frontend development.
+- 👋 Hi, My name is Joco. I'm a **Frontend Developer** and an **accessibility enthusiast**.
 - :keyboard: I run a blog about web accessibility, called Use Less Divs. https://uselessdivs.com/
